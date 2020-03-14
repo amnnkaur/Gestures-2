@@ -17,12 +17,12 @@
 		9BA1A2F4236E394000EA0BC6 /* PinchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1A2F3236E394000EA0BC6 /* PinchViewController.swift */; };
 		9BA1A2F6236E44B900EA0BC6 /* RotationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1A2F5236E44B900EA0BC6 /* RotationViewController.swift */; };
 		9BA1A2FB236E4AD400EA0BC6 /* LongPressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA1A2FA236E4AD400EA0BC6 /* LongPressViewController.swift */; };
+		9BC0A831241C5B4D00A9B489 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC0A82C241C5B4D00A9B489 /* home.png */; };
+		9BC0A832241C5B4D00A9B489 /* ice cream.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC0A82D241C5B4D00A9B489 /* ice cream.png */; };
+		9BC0A833241C5B4D00A9B489 /* gorilla.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC0A82E241C5B4D00A9B489 /* gorilla.png */; };
+		9BC0A834241C5B4D00A9B489 /* lion.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC0A82F241C5B4D00A9B489 /* lion.png */; };
+		9BC0A835241C5B4D00A9B489 /* elephant.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BC0A830241C5B4D00A9B489 /* elephant.png */; };
 		9BDCB0362370E3210001F78C /* internet.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BDCB0352370E3210001F78C /* internet.png */; };
-		9BF91C44241AA754003B0E89 /* elephant.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BF91C3F241AA753003B0E89 /* elephant.png */; };
-		9BF91C45241AA754003B0E89 /* gorilla.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BF91C40241AA753003B0E89 /* gorilla.png */; };
-		9BF91C46241AA754003B0E89 /* ice cream.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BF91C41241AA754003B0E89 /* ice cream.png */; };
-		9BF91C47241AA754003B0E89 /* lion.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BF91C42241AA754003B0E89 /* lion.png */; };
-		9BF91C48241AA754003B0E89 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BF91C43241AA754003B0E89 /* home.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,12 +38,12 @@
 		9BA1A2F3236E394000EA0BC6 /* PinchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinchViewController.swift; sourceTree = "<group>"; };
 		9BA1A2F5236E44B900EA0BC6 /* RotationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationViewController.swift; sourceTree = "<group>"; };
 		9BA1A2FA236E4AD400EA0BC6 /* LongPressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressViewController.swift; sourceTree = "<group>"; };
+		9BC0A82C241C5B4D00A9B489 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		9BC0A82D241C5B4D00A9B489 /* ice cream.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ice cream.png"; sourceTree = "<group>"; };
+		9BC0A82E241C5B4D00A9B489 /* gorilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gorilla.png; sourceTree = "<group>"; };
+		9BC0A82F241C5B4D00A9B489 /* lion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lion.png; sourceTree = "<group>"; };
+		9BC0A830241C5B4D00A9B489 /* elephant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elephant.png; sourceTree = "<group>"; };
 		9BDCB0352370E3210001F78C /* internet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = internet.png; sourceTree = "<group>"; };
-		9BF91C3F241AA753003B0E89 /* elephant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = elephant.png; path = ../../joker_circus/elephant.png; sourceTree = "<group>"; };
-		9BF91C40241AA753003B0E89 /* gorilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gorilla.png; path = ../../joker_circus/gorilla.png; sourceTree = "<group>"; };
-		9BF91C41241AA754003B0E89 /* ice cream.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ice cream.png"; path = "../../joker_circus/ice cream.png"; sourceTree = "<group>"; };
-		9BF91C42241AA754003B0E89 /* lion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lion.png; path = ../../joker_circus/lion.png; sourceTree = "<group>"; };
-		9BF91C43241AA754003B0E89 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = home.png; path = ../../joker_circus/home.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,12 +85,12 @@
 				9BA1A2FA236E4AD400EA0BC6 /* LongPressViewController.swift */,
 				9BA1A2E1236E31E100EA0BC6 /* Main.storyboard */,
 				9BA1A2E4236E31E200EA0BC6 /* Assets.xcassets */,
-				9BF91C3F241AA753003B0E89 /* elephant.png */,
 				9BDCB0352370E3210001F78C /* internet.png */,
-				9BF91C40241AA753003B0E89 /* gorilla.png */,
-				9BF91C43241AA754003B0E89 /* home.png */,
-				9BF91C41241AA754003B0E89 /* ice cream.png */,
-				9BF91C42241AA754003B0E89 /* lion.png */,
+				9BC0A830241C5B4D00A9B489 /* elephant.png */,
+				9BC0A82E241C5B4D00A9B489 /* gorilla.png */,
+				9BC0A82C241C5B4D00A9B489 /* home.png */,
+				9BC0A82D241C5B4D00A9B489 /* ice cream.png */,
+				9BC0A82F241C5B4D00A9B489 /* lion.png */,
 				9BA1A2E6236E31E200EA0BC6 /* LaunchScreen.storyboard */,
 				9BA1A2E9236E31E200EA0BC6 /* Info.plist */,
 			);
@@ -155,15 +155,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9BF91C44241AA754003B0E89 /* elephant.png in Resources */,
 				9BA1A2E8236E31E200EA0BC6 /* LaunchScreen.storyboard in Resources */,
-				9BF91C48241AA754003B0E89 /* home.png in Resources */,
+				9BC0A831241C5B4D00A9B489 /* home.png in Resources */,
+				9BC0A833241C5B4D00A9B489 /* gorilla.png in Resources */,
 				9BDCB0362370E3210001F78C /* internet.png in Resources */,
-				9BF91C45241AA754003B0E89 /* gorilla.png in Resources */,
 				9BA1A2E5236E31E200EA0BC6 /* Assets.xcassets in Resources */,
-				9BF91C47241AA754003B0E89 /* lion.png in Resources */,
-				9BF91C46241AA754003B0E89 /* ice cream.png in Resources */,
+				9BC0A834241C5B4D00A9B489 /* lion.png in Resources */,
+				9BC0A835241C5B4D00A9B489 /* elephant.png in Resources */,
 				9BA1A2E3236E31E100EA0BC6 /* Main.storyboard in Resources */,
+				9BC0A832241C5B4D00A9B489 /* ice cream.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
